@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# macOS
+.DS_Store
+
+# Outputs (generated files)
+outputs/
+
+# IDE
+.vscode/
+.idea/
+
+# PDF (generated from MD)
+*.pdf
